@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-29T11:04:31.279091Z",
+  "updated_at": "2026-06-29T15:51:10.349562Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -136,10 +136,6 @@
         },
         {
           "id": "anthropic/claude-opus-4.6",
-          "description": ""
-        },
-        {
-          "id": "anthropic/claude-opus-4.6-fast",
           "description": ""
         },
         {
