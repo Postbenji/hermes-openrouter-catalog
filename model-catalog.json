@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-30T07:15:08.013346Z",
+  "updated_at": "2026-06-30T12:38:23.826255Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -64,10 +64,6 @@
         },
         {
           "id": "openrouter/free",
-          "description": "free"
-        },
-        {
-          "id": "openrouter/owl-alpha",
           "description": "free"
         },
         {
