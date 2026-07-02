@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-01T18:37:34.027140Z",
+  "updated_at": "2026-07-02T00:34:30.147960Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -108,6 +108,10 @@
         },
         {
           "id": "anthropic/claude-3-haiku",
+          "description": ""
+        },
+        {
+          "id": "anthropic/claude-fable-5",
           "description": ""
         },
         {
@@ -984,6 +988,10 @@
         },
         {
           "id": "z-ai/glm-5v-turbo",
+          "description": ""
+        },
+        {
+          "id": "~anthropic/claude-fable-latest",
           "description": ""
         },
         {
