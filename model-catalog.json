@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-06T15:14:44.109210Z",
+  "updated_at": "2026-07-06T19:44:46.694341Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -476,6 +476,10 @@
         },
         {
           "id": "moonshotai/kimi-k2.7-code",
+          "description": ""
+        },
+        {
+          "id": "nex-agi/nex-n2-mini",
           "description": ""
         },
         {
