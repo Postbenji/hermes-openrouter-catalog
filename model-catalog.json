@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-07T14:10:49.343514Z",
+  "updated_at": "2026-07-07T19:43:35.033641Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -92,6 +92,18 @@
         },
         {
           "id": "ai21/jamba-large-1.7",
+          "description": ""
+        },
+        {
+          "id": "aion-labs/aion-2.0",
+          "description": ""
+        },
+        {
+          "id": "aion-labs/aion-3.0",
+          "description": ""
+        },
+        {
+          "id": "aion-labs/aion-3.0-mini",
           "description": ""
         },
         {
