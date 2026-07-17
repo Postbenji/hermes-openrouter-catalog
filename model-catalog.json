@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-17T13:09:11.329402Z",
+  "updated_at": "2026-07-17T18:55:30.756375Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -495,10 +495,6 @@
           "description": ""
         },
         {
-          "id": "nvidia/llama-3.3-nemotron-super-49b-v1.5",
-          "description": ""
-        },
-        {
           "id": "nvidia/nemotron-3-nano-30b-a3b",
           "description": ""
         },
@@ -744,6 +740,10 @@
         },
         {
           "id": "openrouter/auto",
+          "description": ""
+        },
+        {
+          "id": "openrouter/auto-beta",
           "description": ""
         },
         {
