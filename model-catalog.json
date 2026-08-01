@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-31T19:10:25.129832Z",
+  "updated_at": "2026-08-01T02:01:56.872576Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -968,6 +968,10 @@
         },
         {
           "id": "thinkingmachines/inkling",
+          "description": ""
+        },
+        {
+          "id": "thinkingmachines/inkling-small",
           "description": ""
         },
         {
