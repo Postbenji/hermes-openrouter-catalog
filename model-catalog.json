@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-12T18:51:04.088968Z",
+  "updated_at": "2026-08-13T01:14:20.022351Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -24,6 +24,10 @@
         },
         {
           "id": "inclusionai/ling-3.0-tiny:free",
+          "description": "free"
+        },
+        {
+          "id": "liquid/lfm-2.5-2.6b:free",
           "description": "free"
         },
         {
@@ -632,6 +636,10 @@
         },
         {
           "id": "nvidia/nemotron-3-ultra-550b-a55b:batch",
+          "description": ""
+        },
+        {
+          "id": "nvidia/nemotron-3.5-lightning",
           "description": ""
         },
         {
