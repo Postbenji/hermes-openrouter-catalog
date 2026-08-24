@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-24T06:39:09.890098Z",
+  "updated_at": "2026-08-24T12:30:38.730906Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -447,19 +447,7 @@
           "description": ""
         },
         {
-          "id": "inclusionai/ling-2.6-1t",
-          "description": ""
-        },
-        {
-          "id": "inclusionai/ling-2.6-flash",
-          "description": ""
-        },
-        {
           "id": "inclusionai/ling-3.0-flash",
-          "description": ""
-        },
-        {
-          "id": "inclusionai/ring-2.6-1t",
           "description": ""
         },
         {
