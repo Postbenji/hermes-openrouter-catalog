@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-03T20:19:42.755546Z",
+  "updated_at": "2026-09-04T02:12:03.453333Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1312,6 +1312,10 @@
         },
         {
           "id": "x-ai/grok-4.3",
+          "description": ""
+        },
+        {
+          "id": "x-ai/grok-4.3:batch",
           "description": ""
         },
         {
