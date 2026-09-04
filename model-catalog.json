@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-04T15:30:14.167180Z",
+  "updated_at": "2026-09-04T20:05:11.916104Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -28,6 +28,10 @@
         },
         {
           "id": "inclusionai/ling-3.0-flash-fin:free",
+          "description": "free"
+        },
+        {
+          "id": "inclusionai/ling-3.0-flash-sante:free",
           "description": "free"
         },
         {
@@ -444,10 +448,6 @@
         },
         {
           "id": "google/gemma-4-31b-it:batch",
-          "description": ""
-        },
-        {
-          "id": "ibm-granite/granite-4.1-8b",
           "description": ""
         },
         {
