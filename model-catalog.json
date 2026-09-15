@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-14T21:13:00.939750Z",
+  "updated_at": "2026-09-15T02:40:13.992397Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -352,10 +352,6 @@
         },
         {
           "id": "google/gemini-2.5-pro-preview",
-          "description": ""
-        },
-        {
-          "id": "google/gemini-2.5-pro-preview-05-06",
           "description": ""
         },
         {
@@ -732,10 +728,6 @@
         },
         {
           "id": "openai/gpt-4-turbo",
-          "description": ""
-        },
-        {
-          "id": "openai/gpt-4-turbo-preview",
           "description": ""
         },
         {
