@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-21T11:33:33.469280Z",
+  "updated_at": "2026-09-21T17:31:18.841770Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -148,10 +148,6 @@
         },
         {
           "id": "anthropic/claude-haiku-4.5:batch",
-          "description": ""
-        },
-        {
-          "id": "anthropic/claude-opus-4",
           "description": ""
         },
         {
@@ -563,10 +559,6 @@
           "description": ""
         },
         {
-          "id": "minimax/minimax-m3:batch",
-          "description": ""
-        },
-        {
           "id": "mistralai/codestral-2508",
           "description": ""
         },
@@ -684,10 +676,6 @@
         },
         {
           "id": "moonshotai/kimi-k3",
-          "description": ""
-        },
-        {
-          "id": "moonshotai/kimi-k3:batch",
           "description": ""
         },
         {
@@ -999,10 +987,6 @@
           "description": ""
         },
         {
-          "id": "openai/gpt-oss-120b:batch",
-          "description": ""
-        },
-        {
           "id": "openai/gpt-oss-20b",
           "description": ""
         },
@@ -1207,10 +1191,6 @@
           "description": ""
         },
         {
-          "id": "qwen/qwen3.5-9b:batch",
-          "description": ""
-        },
-        {
           "id": "qwen/qwen3.5-flash-02-23",
           "description": ""
         },
@@ -1256,10 +1236,6 @@
         },
         {
           "id": "qwen/qwen3.8-2.4t-a95b",
-          "description": ""
-        },
-        {
-          "id": "qwen/qwen3.8-2.4t-a95b:batch",
           "description": ""
         },
         {
@@ -1331,10 +1307,6 @@
           "description": ""
         },
         {
-          "id": "thinkingmachines/inkling:batch",
-          "description": ""
-        },
-        {
           "id": "unbiased/pareto",
           "description": ""
         },
@@ -1364,6 +1336,10 @@
         },
         {
           "id": "x-ai/grok-4.6",
+          "description": ""
+        },
+        {
+          "id": "x-ai/grok-4.7",
           "description": ""
         },
         {
