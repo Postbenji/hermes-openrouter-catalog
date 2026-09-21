@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-21T17:31:18.841770Z",
+  "updated_at": "2026-09-21T21:28:22.967918Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1352,6 +1352,18 @@
         },
         {
           "id": "xiaomi/mimo-v2.5-pro",
+          "description": ""
+        },
+        {
+          "id": "xiaomi/mimo-v2.6-flash",
+          "description": ""
+        },
+        {
+          "id": "xiaomi/mimo-v2.6-pro",
+          "description": ""
+        },
+        {
+          "id": "xiaomi/mimo-v2.6-pro-ultraspeed",
           "description": ""
         },
         {
