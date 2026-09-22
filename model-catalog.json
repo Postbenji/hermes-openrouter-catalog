@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-22T02:36:01.535547Z",
+  "updated_at": "2026-09-22T10:39:31.779674Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -475,10 +475,6 @@
           "description": ""
         },
         {
-          "id": "kwaipilot/kat-coder-pro-v2",
-          "description": ""
-        },
-        {
           "id": "kwaipilot/kat-coder-pro-v2.5",
           "description": ""
         },
@@ -676,6 +672,10 @@
         },
         {
           "id": "moonshotai/kimi-k3",
+          "description": ""
+        },
+        {
+          "id": "nex-agi/nex-n2.5-pro",
           "description": ""
         },
         {
