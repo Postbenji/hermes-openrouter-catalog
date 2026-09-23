@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T10:31:25.933357Z",
+  "updated_at": "2026-09-23T15:50:28.801202Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -100,6 +100,14 @@
         },
         {
           "id": "aion-labs/aion-3.0-mini",
+          "description": ""
+        },
+        {
+          "id": "aion-labs/aion-3.5",
+          "description": ""
+        },
+        {
+          "id": "aion-labs/aion-3.5-mini",
           "description": ""
         },
         {
@@ -560,10 +568,6 @@
         },
         {
           "id": "mistralai/codestral-2508:batch",
-          "description": ""
-        },
-        {
-          "id": "mistralai/devstral-2512",
           "description": ""
         },
         {
@@ -1352,6 +1356,10 @@
         },
         {
           "id": "unbiased/pareto",
+          "description": ""
+        },
+        {
+          "id": "upstage/solar-mini4",
           "description": ""
         },
         {
