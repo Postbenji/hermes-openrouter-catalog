@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-23T15:50:28.801202Z",
+  "updated_at": "2026-09-23T20:53:59.175059Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -32,10 +32,6 @@
         },
         {
           "id": "inclusionai/ling-3.0-flash-sante:free",
-          "description": "free"
-        },
-        {
-          "id": "inclusionai/ling-3.0-flash-vl:free",
           "description": "free"
         },
         {
@@ -80,6 +76,10 @@
         },
         {
           "id": "qwen/qwen3.8-27b:free",
+          "description": "free"
+        },
+        {
+          "id": "stealth/space-bunny-alpha",
           "description": "free"
         },
         {
@@ -1292,6 +1292,10 @@
         },
         {
           "id": "qwen/qwen3.8-max-0902",
+          "description": ""
+        },
+        {
+          "id": "qwen/qwen3.8-max-prime",
           "description": ""
         },
         {
