@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-05T13:08:29.657531Z",
+  "updated_at": "2026-10-05T23:30:34.873947Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -68,14 +68,6 @@
         },
         {
           "id": "poolside/laguna-xs-2.1:free",
-          "description": "free"
-        },
-        {
-          "id": "qwen/qwen3.8-27b:free",
-          "description": "free"
-        },
-        {
-          "id": "stealth/space-bunny-alpha",
           "description": "free"
         },
         {
