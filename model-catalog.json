@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-07T12:22:36.561371Z",
+  "updated_at": "2026-10-07T22:28:09.561637Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -140,6 +140,14 @@
         },
         {
           "id": "anthropic/claude-haiku-4.5:batch",
+          "description": ""
+        },
+        {
+          "id": "anthropic/claude-haiku-5.5",
+          "description": ""
+        },
+        {
+          "id": "anthropic/claude-haiku-5.5:batch",
           "description": ""
         },
         {
