@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-13T22:07:24.196310Z",
+  "updated_at": "2026-10-14T02:53:03.392106Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1127,6 +1127,10 @@
           "description": ""
         },
         {
+          "id": "openrouter/pareto-code",
+          "description": ""
+        },
+        {
           "id": "perceptron/perceptron-mk1.5",
           "description": ""
         },
@@ -1363,11 +1367,11 @@
           "description": ""
         },
         {
-          "id": "unbiased/pareto",
+          "id": "unbiased/pareto-26.10-preview",
           "description": ""
         },
         {
-          "id": "unbiased/pareto-26.10-preview",
+          "id": "unbiased/pareto-26.9",
           "description": ""
         },
         {
@@ -1560,6 +1564,10 @@
         },
         {
           "id": "~openai/gpt-terra-latest",
+          "description": ""
+        },
+        {
+          "id": "~unbiased/pareto-latest",
           "description": ""
         },
         {
