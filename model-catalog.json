@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T10:36:41.565021Z",
+  "updated_at": "2026-10-15T16:01:18.260901Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -44,6 +44,10 @@
         },
         {
           "id": "nvidia/nemotron-3.5-lightning:free",
+          "description": "free"
+        },
+        {
+          "id": "nvidia/nemotron-3.5-super-vl:free",
           "description": "free"
         },
         {
@@ -192,10 +196,6 @@
         },
         {
           "id": "anthropic/claude-opus-5:batch",
-          "description": ""
-        },
-        {
-          "id": "anthropic/claude-sonnet-4",
           "description": ""
         },
         {
