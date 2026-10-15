@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-15T16:01:18.260901Z",
+  "updated_at": "2026-10-15T20:45:55.569502Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -543,6 +543,10 @@
           "description": ""
         },
         {
+          "id": "meta/muse-spark-open",
+          "description": ""
+        },
+        {
           "id": "meta/muse-wonder",
           "description": ""
         },
@@ -720,6 +724,10 @@
         },
         {
           "id": "nvidia/nemotron-3.5-lightning",
+          "description": ""
+        },
+        {
+          "id": "nvidia/nemotron-3.5-super-vl",
           "description": ""
         },
         {
@@ -1364,10 +1372,6 @@
         },
         {
           "id": "typesafe/jev-router",
-          "description": ""
-        },
-        {
-          "id": "unbiased/pareto-26.10-preview",
           "description": ""
         },
         {
