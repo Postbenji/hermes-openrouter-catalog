@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T15:49:50.298782Z",
+  "updated_at": "2026-10-16T20:18:55.095766Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -68,6 +68,10 @@
         },
         {
           "id": "thinkingmachines/inkling:free",
+          "description": "free"
+        },
+        {
+          "id": "xingchen-agi/xing4.0-29b-a4b:free",
           "description": "free"
         },
         {
