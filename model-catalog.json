@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-17T02:19:14.235760Z",
+  "updated_at": "2026-10-17T09:55:43.256421Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -331,7 +331,15 @@
           "description": ""
         },
         {
+          "id": "deepseek/deepseek-v4.1-flash-1017",
+          "description": ""
+        },
+        {
           "id": "deepseek/deepseek-v4.1-flash:batch",
+          "description": ""
+        },
+        {
+          "id": "elorian/glimpse",
           "description": ""
         },
         {
