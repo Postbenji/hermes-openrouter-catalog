@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T20:18:55.095766Z",
+  "updated_at": "2026-10-17T02:19:14.235760Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1292,6 +1292,10 @@
         },
         {
           "id": "qwen/qwen3.7-plus",
+          "description": ""
+        },
+        {
+          "id": "qwen/qwen3.7-plus:batch",
           "description": ""
         },
         {
