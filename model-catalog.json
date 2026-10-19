@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T11:40:37.268903Z",
+  "updated_at": "2026-10-19T18:01:33.353453Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -28,6 +28,10 @@
         },
         {
           "id": "liquid/lfm-2.5-2.6b:free",
+          "description": "free"
+        },
+        {
+          "id": "minimax/minimax-m3.1-flash:free",
           "description": "free"
         },
         {
@@ -484,6 +488,10 @@
         },
         {
           "id": "inception/mercury-2.5",
+          "description": ""
+        },
+        {
+          "id": "inception/mercury-3",
           "description": ""
         },
         {
