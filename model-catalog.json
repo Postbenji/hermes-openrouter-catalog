@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T02:34:35.928700Z",
+  "updated_at": "2026-10-19T11:40:37.268903Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -284,10 +284,6 @@
         },
         {
           "id": "deepseek/deepseek-chat-v3.1",
-          "description": ""
-        },
-        {
-          "id": "deepseek/deepseek-r1",
           "description": ""
         },
         {
