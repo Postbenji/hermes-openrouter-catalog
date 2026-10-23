@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T16:10:41.885587Z",
+  "updated_at": "2026-10-23T20:49:35.394416Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -708,6 +708,10 @@
         },
         {
           "id": "moonshotai/kimi-k3",
+          "description": ""
+        },
+        {
+          "id": "moonshotai/kimi-k3.1-pro",
           "description": ""
         },
         {
