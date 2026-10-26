@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T11:57:19.226263Z",
+  "updated_at": "2026-10-26T18:14:22.780093Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -236,10 +236,6 @@
         },
         {
           "id": "anthropic/claude-sonnet-5:batch",
-          "description": ""
-        },
-        {
-          "id": "arcee-ai/trinity-large-thinking",
           "description": ""
         },
         {
