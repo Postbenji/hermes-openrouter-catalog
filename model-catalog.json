@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-26T18:14:22.780093Z",
+  "updated_at": "2026-10-27T03:04:10.098432Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -587,10 +587,6 @@
           "description": ""
         },
         {
-          "id": "mistralai/codestral-2508:batch",
-          "description": ""
-        },
-        {
           "id": "mistralai/devstral-2512",
           "description": ""
         },
@@ -607,10 +603,6 @@
           "description": ""
         },
         {
-          "id": "mistralai/ministral-8b-2512:batch",
-          "description": ""
-        },
-        {
           "id": "mistralai/mistral-large",
           "description": ""
         },
@@ -620,10 +612,6 @@
         },
         {
           "id": "mistralai/mistral-large-2512",
-          "description": ""
-        },
-        {
-          "id": "mistralai/mistral-large-2512:batch",
           "description": ""
         },
         {
@@ -647,10 +635,6 @@
           "description": ""
         },
         {
-          "id": "mistralai/mistral-medium-3.1:batch",
-          "description": ""
-        },
-        {
           "id": "mistralai/mistral-nemo",
           "description": ""
         },
@@ -660,10 +644,6 @@
         },
         {
           "id": "mistralai/mistral-small-2603",
-          "description": ""
-        },
-        {
-          "id": "mistralai/mistral-small-2603:batch",
           "description": ""
         },
         {
@@ -1056,6 +1036,22 @@
         },
         {
           "id": "openai/gpt-6.1-sol:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6.1-terra",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6.1-terra-pro",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6.1-terra-pro:batch",
+          "description": ""
+        },
+        {
+          "id": "openai/gpt-6.1-terra:batch",
           "description": ""
         },
         {
