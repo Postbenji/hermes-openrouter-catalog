@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-28T17:41:59.987570Z",
+  "updated_at": "2026-10-28T22:02:13.248747Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1108,6 +1108,10 @@
         },
         {
           "id": "openrouter/pareto-code",
+          "description": ""
+        },
+        {
+          "id": "particle-ai/particle-1",
           "description": ""
         },
         {
