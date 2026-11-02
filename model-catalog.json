@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T03:38:55.146950Z",
+  "updated_at": "2026-11-02T14:20:04.697399Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1464,6 +1464,10 @@
         },
         {
           "id": "z-ai/glm-5.3-flashx",
+          "description": ""
+        },
+        {
+          "id": "z-ai/glm-5.3-flashx-legal",
           "description": ""
         },
         {
