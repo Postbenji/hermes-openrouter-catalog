@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-04T04:06:31.555477Z",
+  "updated_at": "2026-11-04T13:31:31.657143Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -56,14 +56,6 @@
         },
         {
           "id": "stealth/crouton-alpha",
-          "description": "free"
-        },
-        {
-          "id": "thinkingmachines/inkling-small:free",
-          "description": "free"
-        },
-        {
-          "id": "thinkingmachines/inkling:free",
           "description": "free"
         },
         {
@@ -1324,6 +1316,10 @@
         },
         {
           "id": "tencent/hy3-preview",
+          "description": ""
+        },
+        {
+          "id": "tencent/hy4",
           "description": ""
         },
         {
