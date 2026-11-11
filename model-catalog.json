@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-11T13:16:47.917464Z",
+  "updated_at": "2026-11-11T23:53:10.569598Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1384,6 +1384,10 @@
         },
         {
           "id": "unbiased/pareto-26.10",
+          "description": ""
+        },
+        {
+          "id": "unbiased/pareto-26.10-preview",
           "description": ""
         },
         {
