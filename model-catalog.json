@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-12T23:00:27.928945Z",
+  "updated_at": "2026-11-13T04:19:35.976878Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -528,6 +528,10 @@
         },
         {
           "id": "meituan/longcat-2.0",
+          "description": ""
+        },
+        {
+          "id": "meta-llama/llama-3.1-70b-instruct",
           "description": ""
         },
         {
