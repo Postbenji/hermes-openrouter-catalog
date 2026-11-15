@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T21:50:32.871904Z",
+  "updated_at": "2026-11-15T03:59:58.393503Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1524,10 +1524,6 @@
         },
         {
           "id": "z-ai/glm-5.2",
-          "description": ""
-        },
-        {
-          "id": "z-ai/glm-5.2:batch",
           "description": ""
         },
         {
