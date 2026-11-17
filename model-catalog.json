@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-16T14:22:28.255220Z",
+  "updated_at": "2026-11-17T01:19:50.423383Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1379,6 +1379,10 @@
           "description": ""
         },
         {
+          "id": "tencent/hy4-flash",
+          "description": ""
+        },
+        {
           "id": "tencent/hy4-preview",
           "description": ""
         },
@@ -1520,6 +1524,10 @@
         },
         {
           "id": "z-ai/glm-5.2",
+          "description": ""
+        },
+        {
+          "id": "z-ai/glm-5.2:batch",
           "description": ""
         },
         {
