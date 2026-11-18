@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-18T14:51:31.492053Z",
+  "updated_at": "2026-11-18T23:43:45.549352Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -464,6 +464,14 @@
         },
         {
           "id": "google/gemini-4-hydrogen:batch",
+          "description": ""
+        },
+        {
+          "id": "google/gemini-4-neon",
+          "description": ""
+        },
+        {
+          "id": "google/gemini-4-neon:batch",
           "description": ""
         },
         {
