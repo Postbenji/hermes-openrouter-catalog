@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T05:14:49.578399Z",
+  "updated_at": "2026-11-19T14:57:43.938667Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -64,10 +64,6 @@
         },
         {
           "id": "recursive/flint-v1.0:free",
-          "description": "free"
-        },
-        {
-          "id": "thinkingmachines/inkling-2-small:free",
           "description": "free"
         },
         {
