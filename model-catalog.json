@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-20T00:03:36.964378Z",
+  "updated_at": "2026-11-20T14:39:52.991038Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -12,10 +12,6 @@
       "models": [
         {
           "id": "baidu/ernie-5.5-flash-preview:free",
-          "description": "free"
-        },
-        {
-          "id": "cohere/north-mini-code:free",
           "description": "free"
         },
         {
@@ -716,6 +712,10 @@
         },
         {
           "id": "moonshotai/kimi-k3.1-pro",
+          "description": ""
+        },
+        {
+          "id": "moonshotai/kimi-k3.1-pro:batch",
           "description": ""
         },
         {
@@ -1492,10 +1492,6 @@
         },
         {
           "id": "x-ai/grok-4.7:batch",
-          "description": ""
-        },
-        {
-          "id": "x-ai/grok-build-0.1",
           "description": ""
         },
         {
