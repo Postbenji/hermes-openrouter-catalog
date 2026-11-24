@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-23T16:56:22.220449Z",
+  "updated_at": "2026-11-24T03:39:23.014477Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -679,15 +679,7 @@
           "description": ""
         },
         {
-          "id": "moonshotai/kimi-k2",
-          "description": ""
-        },
-        {
           "id": "moonshotai/kimi-k2-0905",
-          "description": ""
-        },
-        {
-          "id": "moonshotai/kimi-k2-thinking",
           "description": ""
         },
         {
@@ -1496,10 +1488,6 @@
         },
         {
           "id": "xiaomi/mimo-v2.5",
-          "description": ""
-        },
-        {
-          "id": "xiaomi/mimo-v2.5-pro",
           "description": ""
         },
         {
