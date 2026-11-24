@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T03:39:23.014477Z",
+  "updated_at": "2026-11-24T16:45:22.012554Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -12,10 +12,6 @@
       "models": [
         {
           "id": "baidu/ernie-5.5-flash-preview:free",
-          "description": "free"
-        },
-        {
-          "id": "dots-studio/dots-3-note-preview:free",
           "description": "free"
         },
         {
@@ -635,19 +631,11 @@
           "description": ""
         },
         {
-          "id": "mistralai/mistral-medium-3",
-          "description": ""
-        },
-        {
           "id": "mistralai/mistral-medium-3-5",
           "description": ""
         },
         {
           "id": "mistralai/mistral-medium-3-5:batch",
-          "description": ""
-        },
-        {
-          "id": "mistralai/mistral-medium-3.1",
           "description": ""
         },
         {
@@ -676,10 +664,6 @@
         },
         {
           "id": "mistralai/voxtral-small-24b-2507",
-          "description": ""
-        },
-        {
-          "id": "moonshotai/kimi-k2-0905",
           "description": ""
         },
         {
