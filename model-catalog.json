@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-24T16:45:22.012554Z",
+  "updated_at": "2026-11-25T01:46:03.997834Z",
   "metadata": {
     "source": "auto-generated from OpenRouter /v1/models via GitHub Actions"
   },
@@ -1431,7 +1431,15 @@
           "description": ""
         },
         {
+          "id": "upstage/solar-mini-4-5",
+          "description": ""
+        },
+        {
           "id": "upstage/solar-mini4",
+          "description": ""
+        },
+        {
+          "id": "upstage/solar-pro-4-contributor",
           "description": ""
         },
         {
@@ -1471,11 +1479,11 @@
           "description": ""
         },
         {
-          "id": "xiaomi/mimo-v2.5",
+          "id": "xiaomi/mimo-v2.6-flash",
           "description": ""
         },
         {
-          "id": "xiaomi/mimo-v2.6-flash",
+          "id": "xiaomi/mimo-v2.6-flash-mopd",
           "description": ""
         },
         {
